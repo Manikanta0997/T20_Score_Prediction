@@ -4,7 +4,7 @@ import pandas as pd
 import sklearn
 import numpy as np
 
-pipe = pickle.load(open('Random_forest_regressor_1st_inning_score_prediction_low.pkl','rb'))
+pipe = pickle.load(open('Random_forest_regressor_1st_inning_score_prediction_low2.pkl','rb'))
 
 teams = ['Australia',
  'India',
