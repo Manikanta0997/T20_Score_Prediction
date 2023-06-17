@@ -32,4 +32,4 @@ The T20 Score Prediction application is deployed on Streamlit and can be accesse
 The T20 Score Prediction project is open-source and available under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the license.
 
 ## Contact
-For any inquiries or questions regarding the T20 Score Prediction project, please reach out to projectemail@example.com.
+For any inquiries or questions regarding the T20 Score Prediction project, please reach out to mohana.manikantareddy2021@vitstudent.ac.in.
